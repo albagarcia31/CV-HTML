@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  background-color: #f29756;
+  border: 1px solid blue;
+  border-radius: 10px;
+}
+
+h1 {
+  color: rgb(131, 131, 233);
+}
+
+h2 {
+  color: rgb(131, 131, 233);
+}
+
+ul {
+  list-style-type: none;
+}
